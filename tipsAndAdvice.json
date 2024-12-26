@@ -1,62 +1,596 @@
 [
   {
-    "title": "Astuce #1: Gérez vos émotions",
+    "title": "Astuce #1: Gérez votre bankroll",
     "author": "Équipe Chance 8",
-    "content": "Ne laissez pas une victoire ou une défaite affecter vos décisions futures ; restez rationnel.",
+    "content": "Définissez un budget précis et ne pariez jamais plus de 1-3% de votre bankroll sur un seul pari.",
     "date": "2024-11-29"
   },
   {
-    "title": "Astuce #2: Connaissez les règles du sport",
+    "title": "Astuce #2: Maîtrisez vos émotions",
     "author": "Équipe Chance 8",
-    "content": "Assurez-vous de bien comprendre les règles du sport pour éviter des erreurs d'analyse.",
+    "content": "Ne laissez jamais vos émotions guider vos décisions de paris, restez toujours objectif et rationnel.",
     "date": "2024-11-30"
   },
   {
-    "title": "Astuce #3: Testez vos stratégies",
+    "title": "Astuce #3: Spécialisez-vous",
     "author": "Équipe Chance 8",
-    "content": "Avant de prendre des décisions importantes, utilisez des simulations pour affiner vos stratégies.",
+    "content": "Concentrez-vous sur un sport ou une ligue spécifique pour développer une expertise approfondie.",
     "date": "2024-12-01"
   },
   {
-    "title": "Astuce #4: Suivez les tendances et données du marché",
+    "title": "Astuce #4: Tenez un journal de paris",
     "author": "Équipe Chance 8",
-    "content": "Observez comment évoluent les performances pour identifier des opportunités ou des anomalies.",
+    "content": "Notez tous vos paris, leurs résultats et vos analyses pour suivre votre progression et identifier vos points forts.",
     "date": "2024-12-02"
   },
   {
-    "title": "Astuce #5: Fixez des objectifs réalistes",
+    "title": "Astuce #5: Analysez les statistiques",
     "author": "Équipe Chance 8",
-    "content": "Ne vous attendez pas à des résultats spectaculaires rapidement ; concentrez-vous sur une progression régulière.",
+    "content": "Utilisez les données statistiques pour prendre des décisions éclairées plutôt que de vous fier à votre intuition.",
     "date": "2024-12-03"
   },
   {
-    "title": "Astuce #6: Apprenez des erreurs",
+    "title": "Astuce #6: Étudiez les conditions météorologiques",
     "author": "Équipe Chance 8",
-    "content": "Analysez vos décisions passées pour comprendre ce qui n’a pas fonctionné et éviter de répéter les mêmes erreurs.",
+    "content": "La météo peut avoir un impact significatif sur les performances, particulièrement dans les sports en plein air.",
     "date": "2024-12-04"
   },
   {
-    "title": "Astuce #7: Conservez un équilibre dans vos analyses",
+    "title": "Astuce #7: Vérifiez les compositions d'équipes",
     "author": "Équipe Chance 8",
-    "content": "Évitez de vous concentrer uniquement sur des sports ou des équipes que vous ne connaissez pas bien.",
+    "content": "Les absences de joueurs clés peuvent drastiquement modifier les probabilités d'un match.",
     "date": "2024-12-05"
   },
   {
-    "title": "Astuce #8: Prenez en compte la psychologie des équipes",
+    "title": "Astuce #8: Comparez les cotes",
     "author": "Équipe Chance 8",
-    "content": "Les rivalités, les pressions et les enjeux peuvent influencer les performances des équipes.",
+    "content": "Inscrivez-vous sur plusieurs sites de paris pour toujours obtenir les meilleures cotes disponibles.",
     "date": "2024-12-06"
   },
   {
-    "title": "Astuce #9: Vérifiez les historiques des confrontations",
+    "title": "Astuce #9: Évitez les paris combinés",
     "author": "Équipe Chance 8",
-    "content": "Les précédentes rencontres entre deux équipes peuvent révéler des dynamiques intéressantes.",
+    "content": "Les paris combinés offrent des gains potentiels plus élevés mais réduisent significativement vos chances de succès.",
     "date": "2024-12-07"
   },
   {
-    "title": "Astuce #10: Diversifiez vos sources d’information",
+    "title": "Astuce #10: Analysez le calendrier",
     "author": "Équipe Chance 8",
-    "content": "Consultez plusieurs analyses pour éviter les biais et élargir vos perspectives.",
+    "content": "La fatigue due à un calendrier chargé peut impacter les performances des équipes.",
     "date": "2024-12-08"
-  }
+  },
+  {
+    "title": "Astuce #11: Étudiez les dynamiques d'équipes",
+    "author": "Équipe Chance 8",
+    "content": "La forme récente et la dynamique de groupe sont des indicateurs importants de performance future.",
+    "date": "2024-12-09"
+  },
+  {
+    "title": "Astuce #12: Suivez l'actualité sportive",
+    "author": "Équipe Chance 8",
+    "content": "Restez informé des dernières nouvelles qui pourraient affecter les performances des équipes.",
+    "date": "2024-12-10"
+  },
+  {
+    "title": "Astuce #13: Ne cherchez pas à vous refaire",
+    "author": "Équipe Chance 8",
+    "content": "Acceptez vos pertes et ne tentez pas de les récupérer immédiatement avec des paris risqués.",
+    "date": "2024-12-11"
+  },
+  {
+    "title": "Astuce #14: Fixez-vous des limites",
+    "author": "Équipe Chance 8",
+    "content": "Établissez des limites de temps et d'argent et respectez-les strictement.",
+    "date": "2024-12-12"
+  },
+  {
+    "title": "Astuce #15: Étudiez les confrontations directes",
+    "author": "Équipe Chance 8",
+    "content": "L'historique des rencontres entre deux équipes peut révéler des tendances importantes.",
+    "date": "2024-12-13"
+  },
+  {
+    "title": "Astuce #16: Analysez les styles de jeu",
+    "author": "Équipe Chance 8",
+    "content": "Certains styles de jeu peuvent être particulièrement efficaces ou inefficaces contre d'autres.",
+    "date": "2024-12-14"
+  },
+  {
+    "title": "Astuce #17: Évitez les paris émotionnels",
+    "author": "Équipe Chance 8",
+    "content": "Ne pariez pas sur votre équipe favorite si cela affecte votre jugement.",
+    "date": "2024-12-15"
+  },
+  {
+    "title": "Astuce #18: Utilisez des outils d'analyse",
+    "author": "Équipe Chance 8",
+    "content": "Profitez des outils statistiques et des applications dédiées pour affiner vos analyses.",
+    "date": "2024-12-16"
+  },
+  {
+    "title": "Astuce #19: Prenez en compte le facteur domicile/extérieur",
+    "author": "Équipe Chance 8",
+    "content": "L'avantage du terrain peut avoir un impact significatif sur les performances.",
+    "date": "2024-12-17"
+  },
+  {
+    "title": "Astuce #20: Étudiez les tendances du marché",
+    "author": "Équipe Chance 8",
+    "content": "Observez comment évoluent les cotes pour détecter des opportunités de value betting.",
+    "date": "2024-12-18"
+  },
+  {
+    "title": "Astuce #21: Privilégiez la qualité à la quantité",
+    "author": "Équipe Chance 8",
+    "content": "Mieux vaut placer moins de paris mais mieux analysés que multiplier les paris hasardeux.",
+    "date": "2024-12-19"
+  },
+  {
+    "title": "Astuce #22: Diversifiez vos types de paris",
+    "author": "Équipe Chance 8",
+    "content": "Explorez différents marchés pour trouver ceux qui correspondent le mieux à votre expertise.",
+    "date": "2024-12-20"
+  },
+  {
+    "title": "Astuce #23: Attention aux bonus",
+    "author": "Équipe Chance 8",
+    "content": "Ne laissez pas les bonus promotionnels influencer vos décisions de paris.",
+    "date": "2024-12-21"
+  },
+  {
+    "title": "Astuce #24: Gardez une approche professionnelle",
+    "author": "Équipe Chance 8",
+    "content": "Traitez les paris sportifs comme un investissement plutôt qu'un jeu.",
+    "date": "2024-12-22"
+  },
+  {
+    "title": "Astuce #25: Analysez les arbitres",
+    "author": "Équipe Chance 8",
+    "content": "Le style d'arbitrage peut influencer le déroulement d'un match.",
+    "date": "2024-12-23"
+  },
+  {
+    "title": "Astuce #26: Étudiez les changements d'entraîneurs",
+    "author": "Équipe Chance 8",
+    "content": "Un nouveau coach peut modifier significativement la dynamique d'une équipe.",
+    "date": "2024-12-24"
+  },
+  {
+    "title": "Astuce #27: Attention aux blessures de dernière minute",
+    "author": "Équipe Chance 8",
+    "content": "Vérifiez toujours les compositions d'équipes juste avant le match.",
+    "date": "2024-12-25"
+  },
+  {
+    "title": "Astuce #28: Ne négligez pas les équipes de milieu de tableau",
+    "author": "Équipe Chance 8",
+    "content": "Ces équipes peuvent offrir d'excellentes opportunités de value betting.",
+    "date": "2024-12-26"
+  },
+  {
+    "title": "Astuce #29: Analysez les motivations",
+    "author": "Équipe Chance 8",
+    "content": "La motivation peut varier selon les enjeux du match et la période de la saison.",
+    "date": "2024-12-27"
+  },
+  {
+    "title": "Astuce #30: Restez à l'écart des rumeurs",
+    "author": "Équipe Chance 8",
+    "content": "Ne basez pas vos paris sur des informations non confirmées.",
+    "date": "2024-12-28"
+  },
+  {
+    "title": "Astuce #31: Analysez les transferts",
+    "author": "Équipe Chance 8",
+    "content": "Les périodes de transfert peuvent modifier significativement la force d'une équipe.",
+    "date": "2024-12-29"
+  },
+  {
+    "title": "Astuce #32: Étudiez les systèmes de jeu",
+    "author": "Équipe Chance 8",
+    "content": "Comprenez comment les différentes tactiques s'opposent entre elles.",
+    "date": "2024-12-30"
+  },
+  {
+    "title": "Astuce #33: Suivez les réseaux sociaux officiels",
+    "author": "Équipe Chance 8",
+    "content": "Les comptes officiels peuvent fournir des informations précieuses sur l'état des équipes.",
+    "date": "2024-12-31"
+  },
+  {
+    "title": "Astuce #34: Attention aux matchs truqués",
+    "author": "Équipe Chance 8",
+    "content": "Évitez les compétitions douteuses et privilégiez les ligues majeures.",
+    "date": "2025-01-01"
+  },
+  {
+    "title": "Astuce #35: Utilisez les statistiques avancées",
+    "author": "Équipe Chance 8",
+    "content": "Les métriques avancées peuvent révéler des tendances invisibles dans les statistiques de base.",
+    "date": "2025-01-02"
+  },
+  {
+    "title": "Astuce #36: Gérez votre temps",
+    "author": "Équipe Chance 8",
+    "content": "Consacrez suffisamment de temps à l'analyse mais évitez de sur-analyser.",
+    "date": "2025-01-03"
+  },
+  {
+    "title": "Astuce #37: Évitez les paris sous influence",
+    "author": "Équipe Chance 8",
+    "content": "Ne pariez jamais sous l'influence de l'alcool ou dans un état émotionnel perturbé.",
+    "date": "2025-01-04"
+  },
+  {
+    "title": "Astuce #38: Analysez les phases de jeu",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes excellent en première mi-temps, d'autres en fin de match.",
+    "date": "2025-01-05"
+  },
+  {
+    "title": "Astuce #39: Étudiez les matchs à domicile/extérieur",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes ont des performances très différentes selon le lieu du match.",
+    "date": "2025-01-06"
+  },
+  {
+    "title": "Astuce #40: Suivez les tendances de buts",
+    "author": "Équipe Chance 8",
+    "content": "Analysez les moyennes de buts marqués et encaissés pour les paris sur le nombre de buts.",
+    "date": "2025-01-07"
+  },
+  {
+    "title": "Astuce #41: Attention aux derbys",
+    "author": "Équipe Chance 8",
+    "content": "Les matchs entre rivaux locaux peuvent déjouer les pronostics habituels.",
+    "date": "2025-01-08"
+  },
+  {
+    "title": "Astuce #42: Étudiez les remplaçants",
+    "author": "Équipe Chance 8",
+    "content": "La qualité du banc peut être décisive, surtout en fin de match.",
+    "date": "2025-01-09"
+  },
+  {
+    "title": "Astuce #43: Analysez les séries",
+    "author": "Équipe Chance 8",
+    "content": "Les séries de victoires ou de défaites peuvent indiquer une tendance significative.",
+    "date": "2025-01-10"
+  },
+  {
+    "title": "Astuce #44: Surveillez les changements de surface",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes s'adaptent mieux que d'autres aux différentes surfaces de jeu.",
+    "date": "2025-01-11"
+  },
+  {
+    "title": "Astuce #45: Étudiez les statistiques défensives",
+    "author": "Équipe Chance 8",
+    "content": "Une bonne défense est souvent plus fiable qu'une bonne attaque.",
+    "date": "2025-01-12"
+  },
+  {
+    "title": "Astuce #46: Analysez les matchs de coupe",
+    "author": "Équipe Chance 8",
+    "content": "Les compétitions de coupe peuvent générer des résultats surprenants.",
+    "date": "2025-01-13"
+  },
+  {
+    "title": "Astuce #47: Vérifiez les suspensions",
+    "author": "Équipe Chance 8",
+    "content": "Les joueurs suspendus peuvent significativement affaiblir une équipe.",
+    "date": "2025-01-14"
+  },
+  {
+    "title": "Astuce #48: Étudiez les jeunes talents",
+    "author": "Équipe Chance 8", 
+    "content": "Les jeunes joueurs prometteurs peuvent rapidement progresser et surprendre.",
+    "date": "2025-01-15"
+},
+{
+    "title": "Astuce #49: Analysez le jeu à l'extérieur",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes excellent particulièrement lors des déplacements.",
+    "date": "2025-01-16"
+},
+{
+    "title": "Astuce #50: Étudiez les phases arrêtées",
+    "author": "Équipe Chance 8",
+    "content": "Les coups francs et corners peuvent être décisifs pour certaines équipes.",
+    "date": "2025-01-17"
+},
+{
+    "title": "Astuce #51: Suivez les retours de blessure",
+    "author": "Équipe Chance 8",
+    "content": "Le retour d'un joueur clé peut nécessiter une période d'adaptation.",
+    "date": "2025-01-18"
+},
+{
+    "title": "Astuce #52: Analysez les matchs de fin de saison",
+    "author": "Équipe Chance 8",
+    "content": "Les enjeux de fin de saison peuvent fortement influencer les performances.",
+    "date": "2025-01-19"
+},
+{
+    "title": "Astuce #53: Étudiez les changements tactiques",
+    "author": "Équipe Chance 8",
+    "content": "Les modifications de système de jeu peuvent impacter les performances.",
+    "date": "2025-01-20"
+},
+{
+    "title": "Astuce #54: Surveillez la dynamique des buteurs",
+    "author": "Équipe Chance 8",
+    "content": "La forme des attaquants est cruciale pour les paris sur les buteurs.",
+    "date": "2025-01-21"
+},
+{
+    "title": "Astuce #55: Analysez les séries à domicile",
+    "author": "Équipe Chance 8",
+    "content": "Les séries d'invincibilité à domicile sont des indicateurs importants.",
+    "date": "2025-01-22"
+},
+{
+    "title": "Astuce #56: Vérifiez les retours de sélection",
+    "author": "Équipe Chance 8",
+    "content": "Les joueurs internationaux peuvent être fatigués après les trêves.",
+    "date": "2025-01-23"
+},
+{
+    "title": "Astuce #57: Étudiez les gardiens remplaçants",
+    "author": "Équipe Chance 8",
+    "content": "Un changement de gardien peut impacter significativement la défense.",
+    "date": "2025-01-24"
+},
+{
+    "title": "Astuce #58: Analysez les performances sous pression",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes réagissent mieux que d'autres dans les matchs cruciaux.",
+    "date": "2025-01-25"
+},
+{
+    "title": "Astuce #59: Suivez les transferts hivernaux",
+    "author": "Équipe Chance 8",
+    "content": "Le mercato d'hiver peut modifier la dynamique des équipes.",
+    "date": "2025-01-26"
+},
+{
+    "title": "Astuce #60: Étudiez les confrontations type",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes excellent contre un style de jeu particulier.",
+    "date": "2025-01-27"
+},
+{
+    "title": "Astuce #61: Analysez le temps de jeu",
+    "author": "Équipe Chance 8",
+    "content": "La rotation des effectifs peut influencer les performances individuelles.",
+    "date": "2025-01-28"
+},
+{
+    "title": "Astuce #62: Suivez les records",
+    "author": "Équipe Chance 8",
+    "content": "Les séries de records peuvent motiver ou mettre une pression supplémentaire.",
+    "date": "2025-01-29"
+},
+{
+    "title": "Astuce #63: Étudiez les changements de surface",
+    "author": "Équipe Chance 8",
+    "content": "Le passage du synthétique au naturel peut impacter le jeu.",
+    "date": "2025-01-30"
+},
+{
+    "title": "Astuce #64: Analysez les phases de possession",
+    "author": "Équipe Chance 8",
+    "content": "Le contrôle du ballon peut être décisif selon les styles de jeu.",
+    "date": "2025-01-31"
+},
+{
+    "title": "Astuce #65: Surveillez les conflits internes",
+    "author": "Équipe Chance 8",
+    "content": "Les tensions dans une équipe peuvent affecter les performances.",
+    "date": "2025-02-01"
+},
+{
+    "title": "Astuce #66: Étudiez les remplacements tactiques",
+    "author": "Équipe Chance 8",
+    "content": "Les changements en cours de match peuvent modifier la dynamique.",
+    "date": "2025-02-02"
+},
+{
+    "title": "Astuce #67: Analysez les séries de clean sheets",
+    "author": "Équipe Chance 8",
+    "content": "Les matches sans encaisser peuvent indiquer une solidité défensive.",
+    "date": "2025-02-03"
+},
+{
+    "title": "Astuce #68: Suivez les jeunes prometteurs",
+    "author": "Équipe Chance 8",
+    "content": "L'émergence de nouveaux talents peut surprendre les bookmakers.",
+    "date": "2025-02-04"
+},
+{
+    "title": "Astuce #69: Étudiez l'historique des entraîneurs",
+    "author": "Équipe Chance 8",
+    "content": "Les coachs ont souvent des statistiques particulières contre certaines équipes.",
+    "date": "2025-02-05"
+},
+{
+    "title": "Astuce #70: Analysez les matchs à haut enjeu",
+    "author": "Équipe Chance 8",
+    "content": "La pression peut transformer complètement une équipe.",
+    "date": "2025-02-06"
+},
+{
+    "title": "Astuce #71: Surveillez les changements de capitaine",
+    "author": "Équipe Chance 8",
+    "content": "Le leadership sur le terrain peut influencer les performances collectives.",
+    "date": "2025-02-07"
+},
+{
+    "title": "Astuce #72: Étudiez les performances post-blessure",
+    "author": "Équipe Chance 8",
+    "content": "Le retour en forme après blessure peut prendre du temps.",
+    "date": "2025-02-08"
+},
+{
+    "title": "Astuce #73: Analysez les performances européennes",
+    "author": "Équipe Chance 8",
+    "content": "Les matches européens peuvent impacter les performances en championnat.",
+    "date": "2025-02-09"
+},
+{
+    "title": "Astuce #74: Suivez les jeunes équipes",
+    "author": "Équipe Chance 8",
+    "content": "Les équipes jeunes peuvent progresser rapidement en cours de saison.",
+    "date": "2025-02-10"
+},
+{
+    "title": "Astuce #75: Étudiez les matchs de relégation",
+    "author": "Équipe Chance 8",
+    "content": "La lutte pour le maintien peut transcender certaines équipes.",
+    "date": "2025-02-11"
+},
+{
+    "title": "Astuce #76: Analysez les performances post-trêve",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes peinent à retrouver leur rythme après une pause.",
+    "date": "2025-02-12"
+},
+{
+    "title": "Astuce #77: Surveillez les changements de propriétaire",
+    "author": "Équipe Chance 8",
+    "content": "Les changements de direction peuvent affecter le moral des équipes.",
+    "date": "2025-02-13"
+},
+{
+    "title": "Astuce #78: Étudiez les phases de pressing",
+    "author": "Équipe Chance 8",
+    "content": "L'intensité du pressing peut varier selon la fatigue des équipes.",
+    "date": "2025-02-14"
+},
+{
+    "title": "Astuce #79: Analysez les performances sous la chaleur",
+    "author": "Équipe Chance 8",
+    "content": "Les conditions climatiques extrêmes peuvent impacter certaines équipes.",
+    "date": "2025-02-15"
+},
+{
+    "title": "Astuce #80: Suivez les performances des recrues",
+    "author": "Équipe Chance 8",
+    "content": "L'adaptation des nouveaux joueurs peut prendre du temps.",
+    "date": "2025-02-16"
+},
+{
+    "title": "Astuce #81: Étudiez les matchs de coupe nationale",
+    "author": "Équipe Chance 8",
+    "content": "Les équipes peuvent avoir des priorités différentes selon les compétitions.",
+    "date": "2025-02-17"
+},
+{
+    "title": "Astuce #82: Analysez les performances post-scandale",
+    "author": "Équipe Chance 8",
+    "content": "Les controverses peuvent affecter le moral des équipes.",
+    "date": "2025-02-18"
+},
+{
+    "title": "Astuce #83: Surveillez les changements de staff",
+    "author": "Équipe Chance 8",
+    "content": "Les modifications dans l'encadrement peuvent impacter les performances.",
+    "date": "2025-02-19"
+},
+{
+    "title": "Astuce #84: Étudiez les performances nocturnes",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes performent différemment lors des matchs en soirée.",
+    "date": "2025-02-20"
+},
+{
+    "title": "Astuce #85: Analysez les séries de penaltys",
+    "author": "Équipe Chance 8",
+    "content": "Les statistiques sur penalty peuvent être cruciales pour certains paris.",
+    "date": "2025-02-21"
+},
+{
+    "title": "Astuce #86: Suivez les performances des remplaçants",
+    "author": "Équipe Chance 8",
+    "content": "L'impact du banc peut être décisif en fin de match.",
+    "date": "2025-02-22"
+},
+{
+    "title": "Astuce #87: Étudiez les matchs télévisés",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes se transcendent lors des matchs médiatisés.",
+    "date": "2025-02-23"
+},
+{
+    "title": "Astuce #88: Analysez les performances sur terrain neutre",
+    "author": "Équipe Chance 8",
+    "content": "Les matches sur terrain neutre peuvent niveler les forces.",
+    "date": "2025-02-24"
+},
+{
+    "title": "Astuce #89: Surveillez les changements de formation",
+    "author": "Équipe Chance 8",
+    "content": "Les modifications tactiques peuvent prendre du temps à être assimilées.",
+    "date": "2025-02-25"
+},
+{
+    "title": "Astuce #90: Étudiez les performances après une défaite",
+    "author": "Équipe Chance 8",
+    "content": "La réaction après une défaite peut être révélatrice.",
+    "date": "2025-02-26"
+},
+{
+    "title": "Astuce #91: Analysez les séries d'invincibilité",
+    "author": "Équipe Chance 8",
+    "content": "Les longues séries peuvent créer une pression supplémentaire.",
+    "date": "2025-02-27"
+},
+{
+    "title": "Astuce #92: Suivez les changements de pelouse",
+    "author": "Équipe Chance 8",
+    "content": "L'état du terrain peut influencer le style de jeu.",
+    "date": "2025-02-28"
+},
+{
+    "title": "Astuce #93: Étudiez les performances lors des grands matchs",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes se subliment face aux gros adversaires.",
+    "date": "2025-03-01"
+},
+{
+    "title": "Astuce #94: Analysez les matchs de reprise",
+    "author": "Équipe Chance 8",
+    "content": "Le premier match après une longue pause peut être trompeur.",
+    "date": "2025-03-02"
+},
+{
+    "title": "Astuce #95: Surveillez les conflits d'agenda",
+    "author": "Équipe Chance 8",
+    "content": "Les matchs rapprochés peuvent influencer les compositions d'équipe.",
+    "date": "2025-03-03"
+},
+{
+    "title": "Astuce #96: Étudiez les performances sous la pluie",
+    "author": "Équipe Chance 8",
+    "content": "Certaines équipes s'adaptent mieux aux conditions pluvieuses.",
+    "date": "2025-03-04"
+},
+{
+    "title": "Astuce #97: Analysez les séries de cartons",
+    "author": "Équipe Chance 8",
+    "content": "L'indiscipline peut être un indicateur de nervosité.",
+    "date": "2025-03-05"
+},
+{
+    "title": "Astuce #98: Suivez les performances des joueurs clés",
+    "author": "Équipe Chance 8",
+    "content": "La forme des joueurs décisifs peut influencer toute l'équipe.",
+    "date": "2025-03-06"
+},
+{
+    "title": "Astuce #100: Analysez votre propre stratégie",
+    "author": "Équipe Chance 8",
+    "content": "Évaluez régulièrement vos performances, adaptez votre stratégie selon vos résultats et n'hésitez pas à modifier votre approche si nécessaire.",
+    "date": "2025-03-07"
+}
 ]
